@@ -1,2 +1,0 @@
-# sophjackson
-Hello World
